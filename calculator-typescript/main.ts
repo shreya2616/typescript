@@ -18,7 +18,6 @@ r1.question("enter the first number: ", (firstNum) => {
             }catch(error){
                 console.log(error)
             }
-            r1.close()
         })
     })
 })
